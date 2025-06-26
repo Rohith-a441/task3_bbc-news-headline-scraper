@@ -60,7 +60,7 @@ Screenshot	Description
 script-run.png	Script executed successfully in terminal
 headlines-output.png	Output file opened showing scraped headlines
 code-editor.png	Code editor with working script
-project-structure.png	Overall folder structure view
+
 
 
 All screenshots are available inside the /screenshots folder.
